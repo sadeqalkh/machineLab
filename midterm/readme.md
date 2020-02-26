@@ -1,2 +1,2 @@
 project blablabla
-![image description](image link)
+![image description](image.jpg)
