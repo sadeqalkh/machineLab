@@ -12,3 +12,7 @@ This project will use both the stepper and the servo motor for the RC car moveme
 Here are the materials that will be used for the body:
 
 ![20200306_164425](https://user-images.githubusercontent.com/60816393/77826456-eacaa100-7128-11ea-881b-1214a61f2b08.jpg)
+
+Sketch of the navigating version of the front linkages:
+
+![20200328_193609](https://user-images.githubusercontent.com/60816393/77826864-9ecd2b80-712b-11ea-9940-72a36e40b3f2.jpg)
